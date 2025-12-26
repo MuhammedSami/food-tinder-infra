@@ -17,4 +17,4 @@ Just for fun :)
 
 Instructions for deploying on a local K8s cluster using Minikube can be found at:
 
-See: `./local_k8s/readme.md`
+👉 [Local K8s deployment guide](local_k8s/readme.md)
